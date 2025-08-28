@@ -4,10 +4,13 @@
 <!-- **farzah14/farzah14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-
 - 🔭 I’m currently working on  Codero Education
 - 🌱 I’m currently learning Programming
 - 💬 Ask me about Everything
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzah14&show_icons=true&theme=synthwave)
 
 <br>
 <p align="center"> 💻 Development Tools</p>
@@ -20,7 +23,6 @@
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </div>
-
 
 <br>
 <br>
