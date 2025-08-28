@@ -10,13 +10,6 @@
 
 <br>
 
-<div align="center">
-
-![Farzah GitHub stats](https://github-readme-stats.vercel.app/api?username=farzah14&show_icons=true&theme=tokyonight)
-
-</div>
-
-
 
 <br>
 <p align="center"> 💻 Development Tools</p>
