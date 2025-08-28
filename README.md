@@ -4,9 +4,9 @@
 <!-- **farzah14/farzah14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
-- 🔭 I’m currently working on  Codero Education<br>
-- 🌱 I’m currently learning Programming<br>
-- 💬 Ask me about Everything
+- 🔭 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗖𝗼𝗱𝗲𝗿𝗼 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
+- 🌱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴
+- 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 𝗘𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farzah14/farzah14/output/pacman-contribution-graph-dark.svg">
