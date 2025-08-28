@@ -8,21 +8,8 @@
 - 🌱 I’m currently learning Programming<br>
 - 💬 Ask me about Everything
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farzah14/farzah14/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farzah14/farzah14/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farzah14/farzah14/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/farzah14/farzah14/output/snake.svg" alt="Snake animation" />
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farzah14/farzah14/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farzah14/farzah14/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farzah14/farzah14/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <p align="center"> 💻 Development Tools</p>
 
