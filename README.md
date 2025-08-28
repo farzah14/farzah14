@@ -1,4 +1,4 @@
-## Hi , My Name Farzah Febriyanto 👋
+![Header](./github-header-banner.png)
 
 <!--
 **farzah14/farzah14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
