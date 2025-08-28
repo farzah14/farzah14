@@ -10,7 +10,20 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzah14&show_icons=true&theme=synthwave)
+
+![Farzah GitHub stats](https://github-readme-stats.vercel.app/api?username=farzah14&show_icons=true&theme=synthwave)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=farzah14&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark), (border_radius:4.5)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=farzah14&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=farzah14&show_icons=true" />
+</picture>
 
 <br>
 <p align="center"> 💻 Development Tools</p>
